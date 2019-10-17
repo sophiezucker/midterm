@@ -9,8 +9,7 @@
 <body>
 	<h1>Space Needle</h1>
 	<! -- For Prof. Anila: I know you wanted the h1 with decorative elements to be in the third or fourth section, but since none of my other headings are h1, I gave the main heading the decorative elements. Hope that this will suffice.-->
-	<h4> <u>From Wikipedia, the free encyclopedia</u>
-	</h4>
+	<h4> <u>From Wikipedia, the free encyclopedia</u></h4>
 
 	<p><i>This article is about the tower in Seattle. For other uses, see <a href="https://en.wikipedia.org/wiki/Space_Needle_(disambiguation)" target="_blank">Space Needle (disambiguation)</a></i></p> 
 
@@ -48,11 +47,14 @@
 			<a href="#After the Fair">After the Fair</a></li>
 		</ol>
 		</li>
+		
+		
 		<li>
 		<a href="#Jumping Incidents">Jumping incidents</a></li>
 		
 		<li>
 		<a href="#In culture">In culture</a></li>
+		
 		<li>
 		<a href="#See also">See also</a></li>
 		<li>
@@ -64,6 +66,7 @@
 	<a name="architecture"></a>
 	Architecture</h2>
 	<hr>
+	
 	<p>The architecture of the Space Needle is the result of a compromise between the designs of two men, Edward E. Carlson and John Graham, Jr. The two leading ideas for the World Fair involved businessman Edward E. Carlson's sketch of a giant balloon tethered to the ground (the gently sloping base) and architect John Graham's concept of a flying saucer (the halo that houses the restaurant and observation deck).[7] Victor Steinbrueck introduced the hourglass profile of the tower.[14] The Space Needle was built to withstand wind speeds of 200 mph (320 km/h), double the requirements in the building code of 1962. The 6.8 Mw  Nisqually earthquake jolted the Needle enough in 2001 for water to slosh out of the toilets in the restrooms. The Space Needle will not sustain serious structural damage during earthquakes of magnitudes below 9.1. Also made to withstand Category 5 hurricane-force winds, the Space Needle sways only 1 in (25 mm) per 10 mph (16 km/h) of wind speed.</p>
 
 	<p>For decades, the hovering disk of the Space Needle was home to 2 restaurants 500 ft (150 m) above the ground: the Space Needle Restaurant, which was originally named Eye of the Needle, and Emerald Suite. These were closed in 2000 to make way for SkyCity, a larger restaurant that features Pacific Northwest cuisine. It rotates 360 degrees in exactly forty-seven minutes.[15] In 1993, the elevators were replaced with new computerized versions. The new elevators descend at a rate of 10 mph (16 km/h).</p>
@@ -75,6 +78,7 @@
 <h2>
 	<a name="History"></a>
 	History</h2>
+	
 	<hr>
 
 	<h3>
