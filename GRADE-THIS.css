@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:700&display=swap');
+
+h1 {font-family: 'Dancing Script', cursive; font-size: 40px;
+	border: solid 1px black;
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: #f9f3dd; width: 900px; padding: 5px;
+}	
+
+h2 {font-family: 'PT Serif', serif; font-size: 20px; font-weight: thin;
+
+}
+
+body { margin-left: 180px; margin-right: 180px;
+	margin-bottom: 50px; margin-top: 50px;
+	font-family: 'Open Sans', sans-serif; font-size: 14px;
+}
+
+p {
+
+}
+
+#div-one {background-color: #f1f3f8; width: 200px;
+	border: solid 1px black;
+	padding-top: 5px; 
+	padding-bottom: 5px; 
+}
+
+#needle {font-size: 13px; font-style: bold; 
+
+}
+
+h3 {font-family: 'Open Sans', sans-serif; font-weight: bolder;
+
+}
+
+h4 {font-family: 'Open Sans', sans-serif; font-weight: 400;
+
+}
+
+#picture-go {
+	float: right;
+	width: 250px; 
+	padding: 15px;
+}
+
+#div-two {
+	font-size: 16px; font-weight: bolder; 
+	padding-top: 3px; padding-bottom: 9px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {color: blue; 
+
+}
+
+a:hover {text-decoration: underline;
+}
+
+a:visited {color: purple;
+
+
+}
+
+#References {
+
+	-moz-column-count: 2;
+	-moz-column-gap: 50px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 60px;
+	column-count: 2;
+	column-gap: 50px;
+}
+
+#Reference-Title {
+	background-color: #f9fbee; width: 115px;
+	padding: 10px;
+	border: solid 1px black;
+	padding-left: 20px;
+
+}
+
+figure#right1 {
+	float: right;
+	border: solid 1px #aaa;
+	background: #f9fbee;
+	padding: 20px;
+	margin: 30px;
+}
+
+a.class1 {
+	color: #670000;
+}
+
+a.class2 {
+	color: #006767;
+}
+
+a.class3 {
+	color: #4e0000;
+}
+
+
+
+
